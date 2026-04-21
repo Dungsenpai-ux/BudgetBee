@@ -158,3 +158,4 @@ Contributions are welcome! Feel free to open a pull request or start a discussio
 ## Bugs
 
 For bugs please [open an issue](https://github.com/budgetbee/budgetbee/issues)
+# BudgetBee
